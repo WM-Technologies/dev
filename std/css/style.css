@@ -1908,6 +1908,12 @@ a {
   font-weight: 600;
 }
 
+.table-border-para {
+  margin-bottom: 0 !important;
+  border-top: 1px solid #22202082;
+  margin-top: 10px;
+}
+
 .std-table {
   border-collapse: collapse;
 }
