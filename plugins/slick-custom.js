@@ -3010,10 +3010,4 @@ console.log(allSlides.length - 1 - _.options.slidesToShow - (_.slideCount - 1 - 
 
 }));
 
-$(".testimonials").slick({
-  dots: true,
-  centerMode: true,
-  infinite: true,
-  slidesToShow: 5,
-  centerPadding: '0'
-});
+
